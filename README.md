@@ -1,7 +1,7 @@
-Hi, I’m @sagariashwanth
+Hi, I’m @sagariashwanth.
 I am a Full Stack Developer with industry experience building web applications. 
 I specialize in Java and have professional experience working with JavaScript, HTML, CSS, React and Spring Framework. 
-I’m currently learning Full Stack Java Development at Per Scholas,Seattle
+I’m currently learning Full Stack Java Development at Per Scholas,Seattle.
 Reach me at sagari2103@gmail.com
 
 <!---
